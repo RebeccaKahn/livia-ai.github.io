@@ -29,3 +29,4 @@ The project staff is rounded out by [Michaela Feurstein-Prasser](https://at.link
 
 **Where We Are Now**  
 The project is beginning to gather steam! We’ve collected the  metadata from our museum partners and are now starting to experiment with different  clustering approaches in April. We’re also organising a workshop in early May to meet with the museum partners, share our initial results, and get some ideas from them about how their data is used by researchers and visitors, so that we can plan the next phase of data explorations. We’re planning to share regular updates on our progress at every stage, so keep an eye on things here!
+
